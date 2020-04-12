@@ -34,7 +34,7 @@ end
 
 def sort
 @roster.map do |grade, value|
-  @roster.sort
+  @roster[grade].sort
 
 
 end
