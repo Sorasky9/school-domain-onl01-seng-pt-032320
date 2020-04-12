@@ -23,7 +23,6 @@ def add_student(name, grade)
 
   def grade(grade)
     @grade = grade
-    roster[10]
   end
 
 def student(student)
