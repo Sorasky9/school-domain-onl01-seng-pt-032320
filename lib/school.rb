@@ -33,6 +33,4 @@ binding.pry
 
 end
 
-
-
 end
