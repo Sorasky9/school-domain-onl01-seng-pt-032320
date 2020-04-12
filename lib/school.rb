@@ -26,7 +26,7 @@ def add_student(name, grade)
     roster[10]
   end
 
-def sort(sort)
+def sort(list)
   @sort = sort
 
 binding.pry
