@@ -33,7 +33,7 @@ def student(student)
 end
 
 def sort
-
+@roster 
 
 end
 
