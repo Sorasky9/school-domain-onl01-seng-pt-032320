@@ -22,7 +22,9 @@ def add_student(name, grade)
   end
 
   def grade(grade)
-    @grade = grade
+    @grade[grade] 
+
+
   end
 
 def student(student)
