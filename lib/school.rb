@@ -33,7 +33,7 @@ def student(student)
 end
 
 def sort
-@roster.each do |grade|
+@roster.each do |value|
   @roster[grade].sort!
 
 
