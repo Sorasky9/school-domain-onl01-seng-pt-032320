@@ -27,7 +27,7 @@ def add_student(name, grade)
   end
 
 def student(student)
-  binding.pry
+  #binding.pry
   @student = student
 
 
