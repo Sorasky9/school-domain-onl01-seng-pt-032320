@@ -34,7 +34,7 @@ end
 
 def sort
 @roster.each do |grade, value|
-  @roster[grade].sort!
+  value.sort!
 
 
 end
