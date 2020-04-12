@@ -30,6 +30,10 @@ def student(student)
   #binding.pry
   @student = student
 
+end
+
+def sort
+
 
 end
 
