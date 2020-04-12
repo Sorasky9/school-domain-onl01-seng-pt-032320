@@ -30,7 +30,6 @@ def student(student)
   binding.pry
   @student = student
 
-student.sort_by {|k,v| k, v}
 
 end
 
