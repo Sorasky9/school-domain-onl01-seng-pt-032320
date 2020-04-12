@@ -33,7 +33,7 @@ def student(student)
 end
 
 def sort
-@roster.map do |grade, value|
+@roster.map do |grade|
   @roster[grade].sort
 
 
