@@ -29,7 +29,7 @@ def add_student(name, grade)
 def sort(sort)
   @sort = sort
 
-  binding.pry
+binding.pry
 
 end
 
